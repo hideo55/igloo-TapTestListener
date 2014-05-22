@@ -1,5 +1,11 @@
 #igloo-TapTestListener
 
+igloo-TapTestListener is test listener of [igloo](http://igloo-testing.org/) for TAP outputs.
+
+## What is TAP ?
+
+The TAP is an abbreviation of [Test Anything Protocol](http://en.wikipedia.org/wiki/Test_Anything_Protocol).
+
 ## How to use
 
 1. Add this repository as submodule.
