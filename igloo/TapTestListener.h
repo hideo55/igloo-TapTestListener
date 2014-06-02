@@ -1,6 +1,7 @@
 #if !defined(IGLOO_TAP_TEST_LISTENER_H_)
 #define IGLOO_TAP_TEST_LISTENER_H_
 
+#include <string>
 #include <igloo/core/testlistener.h>
 #include <stack>
 
